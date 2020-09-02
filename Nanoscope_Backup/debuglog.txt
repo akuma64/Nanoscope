@@ -1,0 +1,6 @@
+SAT: CheckDisk - OK
+# WARNING! SAT: FileSize - file 'SENSEI0' not found
+>>>> Shutdown: power off ... OK
+SAT: CheckDisk - OK
+>>>> Shutdown: power off ... OK
+SAT: CheckDisk - OK
