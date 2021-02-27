@@ -1,0 +1,13 @@
+SAT: CheckDisk - OK
+Firewall - initial battery level read = 164
+# WARNING! SAT: FileSize - file 'FIREWALL' not found
+Firewall - first accepted battery level = 163
+SAT: CheckDisk - OK
+# WARNING! SAT: FileSize - file 'SENSEI0' not found
+>>>> Shutdown: power off ... OK
+SAT: CheckDisk - OK
+SAT: CheckDisk - OK
+SAT: CheckDisk - OK
+Firewall - initial battery level read = 146
+Firewall - first accepted battery level = 146
+SAT: CheckDisk - OK
